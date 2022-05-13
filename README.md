@@ -1,5 +1,7 @@
 # FirstApp (first-app)
 
+This project was built using Vue.js and Quasar for UI components, and Axios for API calls.
+
 A Quasar Project
 
 ## Install the dependencies
@@ -36,6 +38,3 @@ npm run format
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
